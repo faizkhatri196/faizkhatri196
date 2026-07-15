@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="./typing.svg" alt="Typing animation: Faiz Khatri" />
+  <!-- Inline AI typing animation SVG (CSS/SMIL-based) -->
+  <img src="./typing-ai.svg" alt="AI typing animation" />
 </p>
 
-*Simple typing-style animation added (SVG). GIF and large ASCII removed.*
+*AI typing animation added (SVG, no JS). If your browser or GitHub view doesn't run SVG animations, consider using an animated GIF for full compatibility.*
 
 # Hi there 👋 Welcome to My GitHub!
 
@@ -62,106 +63,6 @@ I'm **Faiz Khatri**, a passionate **Full Stack Developer** and **AI Enthusiast**
 - Simulates real interview scenarios
 - **Tech Stack:** JavaScript
 - ⭐ 1 Star
-
-### 🏠 **House Price Prediction (Machine Learning)**
-**Repository:** [House_price-prediction-](https://github.com/faizkhatri196/House_price-prediction-)
-- Linear Regression implementation from scratch using NumPy
-- Feature normalization and cost function optimization
-- Gradient descent algorithm implementation
-- Model evaluation and performance metrics
-- **Tech Stack:** Python, NumPy, HTML
-- ⭐ 1 Star
-
-### 🗣️ **JARVIS AI Assistant**
-**Repository:** [JARVIS-AI](https://github.com/faizkhatri196/JARVIS-AI)
-- Intelligent voice and text-based AI assistant
-- Natural language processing capabilities
-- Interactive command system
-- **Tech Stack:** JavaScript
-- ⭐ 1 Star
-
-### 📚 **LangChain Introduction & Exploration**
-**Repository:** [LANGCHAIN-INTRODUCTION](https://github.com/faizkhatri196/LANGCHAIN-INTRODUCTION)
-- Comprehensive LangChain framework tutorials
-- Advanced LLM integration patterns
-- RAG implementation examples
-- **Tech Stack:** Python
-- ⭐ 1 Star
-
-### 🌍 **Tourist Guide Platform**
-**Repository:** [TOURIST-GUIDE](https://github.com/faizkhatri196/TOURIST-GUIDE)
-- Full-featured travel destination platform
-- Detailed place information and travel tips
-- Intuitive UI with smooth navigation
-- Image gallery and trip planning features
-- **Tech Stack:** HTML, CSS, JavaScript
-- ⭐ 1 Star
-
-### 🎮 **Interactive Projects**
-- **Tic Tac Toe Game** - 2-player game logic implementation
-- **JavaScript Calculator** - Foundational project showcasing JavaScript skills
-- **Weather App** - Real-time API integration with Python
-
-### 💼 **Portfolio Design**
-**Repository:** [PORTFOLIO-DESIGN](https://github.com/faizkhatri196/PORTFOLIO-DESIGN)
-- Modern, responsive portfolio website
-- **Tech Stack:** React.js, Tailwind CSS, HTML5, JavaScript
-- Clean and professional design
-
----
-
-## 📈 Development Journey
-
-I started with fundamental web technologies (HTML, CSS, JavaScript) and progressively expanded into:
-- Modern frontend frameworks (React.js)
-- Backend development
-- AI and machine learning integration
-- Full-stack application architecture
-
----
-
-## 🎓 Key Competencies
-
-| Area | Skills |
-|------|--------|
-| **AI/ML** | LLM Integration, LangChain, RAG, Linear Regression, AI Assistants |
-| **Frontend** | React.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+) |
-| **Backend** | Node.js, Python, RESTful APIs |
-| **Tools** | Git, GitHub, Jupyter Notebooks, Python Libraries (NumPy) |
-| **Specialization** | Full Stack + AI-Powered Applications |
-
----
-
-## 🎯 Current Focus
-
-- 🚀 Building production-ready AI applications
-- 📖 Mastering LangChain and RAG architectures
-- 🔧 Developing intelligent full-stack solutions
-- 💡 Contributing to open-source AI projects
-
----
-
-## 📞 Let's Connect!
-
-I'm always interested in:
-- Collaborating on AI and full-stack projects
-- Discussing innovative tech solutions
-- Contributing to meaningful open-source work
-- Sharing knowledge and learning together
-
-**Feel free to:**
-- Fork my repositories
-- Open issues with suggestions
-- Reach out for collaborations
-- Star projects you find interesting ⭐
-
----
-
-## 📊 GitHub Stats
-
-- **Repositories:** 12+ public projects
-- **Focus Areas:** AI Integration, Full Stack Development, Machine Learning
-- **Languages:** JavaScript (Primary), Python, HTML/CSS
 
 ---
 
