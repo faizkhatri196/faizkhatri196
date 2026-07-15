@@ -3,24 +3,29 @@
   <defs>
     <style><![CDATA[
       .bg { fill: #000; }
-      .txt { font: 700 48px 'Courier New', monospace; fill:#39FF14; }
-      .caret { fill: #39FF14; }
+      .txt { font: 700 48px 'Courier New', monospace; fill:#00FFF0; letter-spacing:2px }
+      .caret { fill: #00FFF0; }
     ]]></style>
   </defs>
   <rect class="bg" width="100%" height="100%" />
   <text class="txt" x="20" y="70">
-    <tspan opacity="1">A</tspan>
-    <tspan opacity="0"><animate attributeName="opacity" begin="0.2s" dur="0.01s" to="1" fill="freeze"/>I</tspan>
-    <tspan opacity="0"><animate attributeName="opacity" begin="0.4s" dur="0.01s" to="1" fill="freeze"/> </tspan>
-    <tspan opacity="0"><animate attributeName="opacity" begin="0.6s" dur="0.01s" to="1" fill="freeze"/>T</tspan>
-    <tspan opacity="0"><animate attributeName="opacity" begin="0.8s" dur="0.01s" to="1" fill="freeze"/>y</tspan>
-    <tspan opacity="0"><animate attributeName="opacity" begin="1.0s" dur="0.01s" to="1" fill="freeze"/>p</tspan>
-    <tspan opacity="0"><animate attributeName="opacity" begin="1.2s" dur="0.01s" to="1" fill="freeze"/>i</tspan>
-    <tspan opacity="0"><animate attributeName="opacity" begin="1.4s" dur="0.01s" to="1" fill="freeze"/>n</tspan>
-    <tspan opacity="0"><animate attributeName="opacity" begin="1.6s" dur="0.01s" to="1" fill="freeze"/>g</tspan>
+    <!-- Staggered opacity animations (no JS) for typing effect -->
+    <tspan opacity="0">F<animate attributeName="opacity" begin="0s" to="1" dur="0.02s" fill="freeze"/></tspan>
+    <tspan opacity="0">A<animate attributeName="opacity" begin="0.06s" to="1" dur="0.02s" fill="freeze"/></tspan>
+    <tspan opacity="0">i<animate attributeName="opacity" begin="0.12s" to="1" dur="0.02s" fill="freeze"/></tspan>
+    <tspan opacity="0">z<animate attributeName="opacity" begin="0.18s" to="1" dur="0.02s" fill="freeze"/></tspan>
+    <tspan opacity="1"> </tspan>
+    <tspan opacity="0">K<animate attributeName="opacity" begin="0.30s" to="1" dur="0.02s" fill="freeze"/></tspan>
+    <tspan opacity="0">h<animate attributeName="opacity" begin="0.36s" to="1" dur="0.02s" fill="freeze"/></tspan>
+    <tspan opacity="0">a<animate attributeName="opacity" begin="0.42s" to="1" dur="0.02s" fill="freeze"/></tspan>
+    <tspan opacity="0">t<animate attributeName="opacity" begin="0.48s" to="1" dur="0.02s" fill="freeze"/></tspan>
+    <tspan opacity="0">r<animate attributeName="opacity" begin="0.54s" to="1" dur="0.02s" fill="freeze"/></tspan>
+    <tspan opacity="0">i<animate attributeName="opacity" begin="0.60s" to="1" dur="0.02s" fill="freeze"/></tspan>
   </text>
-  <!-- Caret that blinks -->
-  <rect class="caret" x="220" y="30" width="10" height="40" rx="2">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+
+  <!-- Caret positioned approximately after the text; blink speed faster -->
+  <rect class="caret" x="380" y="30" width="12" height="50" rx="2">
+    <animate attributeName="opacity" values="1;0;1" dur="0.7s" repeatCount="indefinite" />
   </rect>
+
 </svg>

@@ -1,7 +1,9 @@
 <p align="center">
-  <!-- Inline AI typing animation SVG (CSS/SMIL-based) -->
-  <img src="./typing-ai.svg" alt="AI typing animation" />
+  <!-- AI typing animation (SVG). If GitHub strips SVG animations, consider converting to a GIF. -->
+  <img src="./typing-ai.svg" alt="AI typing animation: FAiz Khatri" />
 </p>
+
+*AI typing animation: "FAiz Khatri" — faster speed, cyan text & caret.*
 
 # Hi there 👋 Welcome to My GitHub!
 
