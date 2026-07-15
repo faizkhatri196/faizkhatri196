@@ -1,6 +1,19 @@
+██████╗ ██████╗ ███████╗████████╗   █████╗ ███╗   ██╗
+██╔══██╗██╔══██╗██╔════╝╚══██╔══╝  ██╔══██╗████╗  ██║
+██████╔╝██████╔╝█████╗     ██║     ███████║██╔██╗ ██║
+██╔══██╗██╔══██╗██╔══╝     ██║     ██╔══██║██║╚██╗██║
+██████╔╝██║  ██║███████╗   ██║     ██║  ██║██║ ╚████║
+╚═════╝ ╚═╝  ██╔╝╚══════╝   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="CRT animation" />
+</p>
+
+*Retro CRT-style animated header added — GIF with ASCII fallback.*
+
 # Hi there 👋 Welcome to My GitHub!
 
-I'm **Faiz Khatri**, a passionate **Full Stack Developer** and **AI Enthusiast** dedicated to building intelligent solutions and scalable applications. I love combining cutting-edge AI technologies with modern web development to create innovative projects.
+I'm **Faiz Khatri**, a passionate **Full Stack Developer** and **AI Enthusiast** dedicated to building intelligent solutions and scalable applications. I love combining cutting-edge AI technologies[...]
 
 ---
 
