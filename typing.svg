@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <style type="text/css"><![CDATA[
+      .bg { fill: #000; }
+      .txt { font: 900 48px 'Courier New', monospace; fill:#39FF14; }
+      .t { opacity: 0; }
+      .cursor { fill: #39FF14; }
+      @keyframes show { from { opacity: 0 } to { opacity: 1 } }
+      @keyframes blink { 0% { opacity: 1 } 50% { opacity: 0 } 100% { opacity: 1 } }
+    ]]></style>
+  </defs>
+  <rect class="bg" width="100%" height="100%" />
+  <text class="txt" x="20" y="85">
+    <!-- Characters split into tspans so we can stagger their appearance -->
+    <tspan class="t">F</tspan><tspan class="t">a</tspan><tspan class="t">i</tspan><tspan class="t">z</tspan>
+    <tspan class="t"> </tspan>
+    <tspan class="t">K</tspan><tspan class="t">h</tspan><tspan class="t">a</tspan><tspan class="t">t</tspan><tspan class="t">r</tspan><tspan class="t">i</tspan><tspan class="t">1</tspan><tspan class="t">9</tspan><tspan class="t">6</tspan>
+  </text>
+  <!-- Blinking caret placed after the text; we'll position it using translate -->
+  <rect class="cursor" id="caret" x="0" y="45" width="10" height="40" rx="2" ry="2" opacity="1" />
+
+  <script type="application/ecmascript"><![CDATA[
+    // Simple script to stagger tspan appearance and position caret
+    (function(){
+      var svg = document.documentElement;
+      try {
+        var tspans = svg.querySelectorAll('tspan.t');
+        var caret = svg.getElementById('caret');
+        var baseDelay = 80; // ms per character
+        var x = 20; // starting x
+        var y = 85; // baseline y
+        // Measure and reveal letters one by one
+        var idx = 0;
+        function showNext(){
+          if(idx >= tspans.length) {
+            // start blinking
+            caret.style.animation = 'blink 1s steps(2, start) infinite';
+            return;
+          }
+          var t = tspans[idx];
+          // make visible
+          t.style.opacity = '1';
+          t.style.animation = 'show 0.04s linear forwards';
+          // compute advance by measuring getBBox
+          try{
+            var bbox = t.getBBox();
+            x += bbox.width;
+          }catch(e) { x += 18; }
+          // move caret
+          caret.setAttribute('x', x + 6);
+          idx++;
+          setTimeout(showNext, baseDelay);
+        }
+        // Initially hide all characters except spaces
+        for(var i=0;i<tspans.length;i++){
+          if(tspans[i].textContent === ' ') { tspans[i].style.opacity = 1; }
+          else { tspans[i].style.opacity = 0; }
+        }
+        // place caret at start
+        caret.setAttribute('x', 20 + 6);
+        caret.setAttribute('y', 30);
+        caret.setAttribute('height', 60);
+        setTimeout(showNext, 600);
+      }catch(e){ /* if scripts disabled or blocked, fallback to static text */ }
+    })();
+  ]]></script>
+
+</svg>
