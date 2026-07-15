@@ -15,7 +15,7 @@ I'm **Faiz Khatri**, a passionate **Full Stack Developer** and **AI Enthusiast**
 - 🌱 **Currently learning:** Advanced AI/ML, LangChain, RAG systems, and cloud technologies
 - 👯 **Looking to collaborate on:** AI projects, web applications, and open-source initiatives
 - 💡 **Specialization:** Full Stack Development + Artificial Intelligence
-- 📫 **How to reach me:** [faizkhatri196@email.com](mailto:faizkhatri196)
+- 📫 **How to reach me:** [faizkhatri1819@gmail.com](mailto:faizkhatri196)
 - ⚡ **Fun fact:** I transform complex problems into elegant, AI-driven solutions!
 
 ---
