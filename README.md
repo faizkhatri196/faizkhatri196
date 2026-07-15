@@ -3,8 +3,6 @@
   <img src="./typing-ai.svg" alt="AI typing animation: FAiz Khatri" />
 </p>
 
-*AI typing animation: "FAiz Khatri" — faster speed, cyan text & caret.*
-
 # Hi there 👋 Welcome to My GitHub!
 
 I'm **Faiz Khatri**, a passionate **Full Stack Developer** and **AI Enthusiast** dedicated to building intelligent solutions and scalable applications. I love combining cutting-edge AI technologies[...]
