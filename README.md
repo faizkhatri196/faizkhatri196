@@ -3,8 +3,6 @@
   <img src="./typing-ai.svg" alt="AI typing animation" />
 </p>
 
-*AI typing animation added (SVG, no JS). If your browser or GitHub view doesn't run SVG animations, consider using an animated GIF for full compatibility.*
-
 # Hi there 👋 Welcome to My GitHub!
 
 I'm **Faiz Khatri**, a passionate **Full Stack Developer** and **AI Enthusiast** dedicated to building intelligent solutions and scalable applications. I love combining cutting-edge AI technologies[...]
