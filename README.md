@@ -44,28 +44,6 @@ Faiz Khatri
 
 ---
 
-## Proficiency
-
-<div align="center">
-
-| Area | Level |
-|---|---|
-| Full Stack Development | Advanced |
-| JavaScript / TypeScript | Advanced |
-| React / Frontend | Advanced |
-| Python | Advanced |
-| AI / LLM Integration | Advanced |
-| LangChain / RAG Systems | Advanced |
-| Ollama / Local LLMs | Advanced |
-| AWS Cloud | Intermediate |
-| Docker / DevOps Basics | Intermediate |
-| Data / Databases | Intermediate |
-| Problem Solving / Product Thinking | Advanced |
-
-</div>
-
----
-
 ## Focus Areas
 
 - LLM-powered applications and AI assistants
@@ -74,30 +52,6 @@ Faiz Khatri
 - Full-stack product development
 - AI-powered career and interview tools
 - Cloud-ready, scalable web solutions
-
----
-
-## Contribution Timeline
-
-<div align="center">
-
-```text
-2022 → Started with web development and problem-solving
-2023 → Built frontend/backend projects and sharpened product thinking
-2024 → Focused on AI, LLMs, and intelligent application design
-2025 → Building AI-powered tools, automation, and full-stack experiences
-Now  → Shipping practical, modern, AI-first products and prototypes
-```
-
-</div>
-
----
-
-## Activity Tracker
-
-<p align="center">
-  <img src="https://ghchart.rschio.online/api?username=faizkhatri196" alt="GitHub contribution chart" />
-</p>
 
 ---
 
