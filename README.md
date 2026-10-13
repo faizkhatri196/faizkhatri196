@@ -1,73 +1,50 @@
 <p align="center">
-  <!-- AI typing animation (SVG). If GitHub strips SVG animations, consider converting to a GIF. -->
-  <img src="./typing-ai.svg" alt="AI typing animation: FAiz Khatri" />
+  <img src="./typing-ai.svg" alt="AI typing animation: Faiz Khatri" width="600" />
 </p>
 
-# Hi there 👋 Welcome to My GitHub!
+<div align="center">
 
-I'm **Faiz Khatri**, a passionate **Full Stack Developer** and **AI Enthusiast** dedicated to building intelligent solutions and scalable applications. I love combining cutting-edge AI technologies[...]
+```bash
+$ whoami
+Faiz Khatri
+```
 
----
+</div>
 
-## 🚀 About Me
+<p align="center">
+  <b>Full Stack Developer • AI Enthusiast</b>
+</p>
 
-- 🔭 **Currently working on:** AI-powered applications, LLM integrations, and full-stack web projects
-- 🌱 **Currently learning:** Advanced AI/ML, LangChain, RAG systems, and cloud technologies
-- 👯 **Looking to collaborate on:** AI projects, web applications, and open-source initiatives
-- 💡 **Specialization:** Full Stack Development + Artificial Intelligence
-- 📫 **How to reach me:** [faizkhatri1819@gmail.com](mailto:faizkhatri196)
-- ⚡ **Fun fact:** I transform complex problems into elegant, AI-driven solutions!
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizkhatri)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizkhatri1819@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizkhatri196)
 
-## 🎯 Core Skills
+</div>
 
-### 🤖 **Artificial Intelligence & Machine Learning**
-- **LLM Integration & Prompt Engineering**
-- **LangChain Framework** - Building AI-powered applications
-- **Retrieval-Augmented Generation (RAG)** - Advanced document processing
-- **Machine Learning** - Linear Regression, predictive modeling
-- **AI Copilot Development** - Interactive AI assistants
-
-### 💻 **Full Stack Web Development**
-- **Frontend:** HTML5, CSS3, Tailwind CSS, React.js, JavaScript (ES6+)
-- **Backend:** JavaScript/Node.js, Python
-- **Real-time Applications:** Interactive dashboards and interfaces
-- **Responsive Design:** Mobile-first, user-centric interfaces
-
-### 🛠️ **Technologies & Tools**
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks & Libraries:** React.js, LangChain, NumPy
-- **AI/ML:** ChatGPT Integration, AI Career Intelligence, Interview Simulation
-- **Version Control:** Git, GitHub
-- **Databases & APIs:** RESTful APIs, Data Processing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,tailwind,html,css,git,github,postgres,mysql,linux" alt="Tech stack" />
+</p>
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
-### 🎓 **AI Career Intelligence System**
-**Repository:** [AI-CARRER-INTELIGENCE](https://github.com/faizkhatri196/AI-CARRER-INTELIGENCE)
+### AI Career Intelligence System
 - AI-powered career guidance platform
 - Intelligent recommendation system
-- **Tech Stack:** JavaScript
-- Smart career path suggestions using AI
+- Tech stack: JavaScript
 
-### 🤖 **AI Copilot Interview Model**
-**Repository:** [Ai-copilot-interview-model](https://github.com/faizkhatri196/Ai-copilot-interview-model)
+### AI Copilot Interview Model
 - Git-based AI interview preparation platform
-- AI-powered question generation and real-time feedback
+- AI-powered question generation and feedback
 - Progress tracking and learning optimization
-- Simulates real interview scenarios
-- **Tech Stack:** JavaScript
-- ⭐ 1 Star
 
 ---
 
 <div align="center">
 
-### 🌟 Happy Coding! Let's build the future with AI and Full Stack technologies! 🌟
-
-[Portfolio](https://github.com/faizkhatri196/PORTFOLIO-DESIGN) • [LangChain Exploration](https://github.com/faizkhatri196/LANGCHAIN-INTRODUCTION) • [AI Career Platform](https://github.com/faizkhatri196/AI-CARRER-INTELIGENCE)
+### 🌟 Building smarter digital experiences with AI and full-stack engineering 🌟
 
 </div>
