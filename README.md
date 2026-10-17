@@ -34,7 +34,7 @@ Faiz Khatri
 
 ### Programming & Web
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,tailwind,html,css,java,cpp,c,cs,php,redux,figma,git,github,postman,linux,ubuntu,vercel,netlify" alt="Programming and web technologies" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,css,java,cpp,c,cs,php,redux,figma,git,github,postman,linux,ubuntu,vercel,netlify" alt="Programming and web icons" />
 </p>
 
 ### AI / ML / LLM / Cloud
